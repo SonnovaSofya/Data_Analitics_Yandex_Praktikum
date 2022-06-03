@@ -15,5 +15,7 @@ This program gave an opportunity to master the key skills to work as a DA specia
 | [Advertising Campaign Effectiveness](advertising_campaign_effectiveness) | To analyse different adv channels of the entertainment app, to estimate payback of the advertising. The calculate the key business metrics - LTV, ROI, retention rate and convertion | *pandas*, *numpy*, *seaborn*, *matplotlib* |
 |[Telecom company tariffs](telecom_company_tariffs) | To compare and analyse two tarrifs of a telecom company. To build AB-tests to test hypotheses about difference in revenue of customers of these two tariffs, and the difference in revenue of subscribers from Moscow and other Russian regions. | *EDA*, *AB-тесты*, *pandas*, *matplotlib* |
 |[NPS of telecom company](telecom_company_NPS) | To determine the current level of consumer loyalty (NPS) among Russian customers of a telecommunication company. An SQL query has been written to download the required data from the database. An analysis was carried out and a dashboard was built in Tableau to identify: the distribution of survey participants by age and gender; the share of new users of the survey; distribution by city; the most and least loyal user groups | *SQL*, *Sqlalchemy*, *pandas*, *Tableau* |
+|[Исследование базы данных сервиса](stackoverflow_database) | To apply advanced functions for SQL queries including the use of window functions, cohort analysis, calculation of product metrics | *SQL*, *Sqlalchemy*, *pandas*, *seaborn*, *matplotlib* |
+
 
 
