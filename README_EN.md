@@ -1,5 +1,7 @@
 # Data_Analitics_Yandex_Praktikum
 
+[Русская версия](README.md) / English version
+
 The repository reveals projects that I have completed as part of the DA educational program by Yandex.Praktikum.
 
 This program gave an opportunity to master the key skills to work as a DA specialist - *Python*, *SQL*, *AB-testing*, *data visualization and creating dashboards*, *ML basics*. Most importantly, working on projects allowed to develop analytical skills for conducting research analysis - identifying patterns, formulating hypotheses and conclusions from the analysed data. 
