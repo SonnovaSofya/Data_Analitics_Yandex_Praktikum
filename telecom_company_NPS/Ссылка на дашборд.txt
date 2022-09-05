@@ -1,0 +1,3 @@
+Ссылка на дашборд в Tableau Public 
+https://public.tableau.com/views/2-DA/sheet20?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
